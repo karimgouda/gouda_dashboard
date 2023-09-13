@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,600,700');
+@import '../../public/layouts/vertical-light-menu/css/light/loader.css';
+@import '../../public/layouts/vertical-light-menu/css/dark/loader.css';
+
+@import '../../public/src/bootstrap/css/bootstrap.min.css';
+@import '../../public/layouts/vertical-light-menu/css/light/plugins.css';
+@import '../../public/layouts/vertical-light-menu/css/dark/plugins.css';
+

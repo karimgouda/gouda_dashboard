@@ -1,0 +1,3 @@
+{!! OpenGraph::generate() !!}
+
+{!! Twitter::generate() !!}
